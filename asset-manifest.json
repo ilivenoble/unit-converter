@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-history-app/static/css/main.272e989d.css",
+    "main.js": "/travel-history-app/static/js/main.1ed14e6b.js",
+    "index.html": "/travel-history-app/index.html",
+    "main.272e989d.css.map": "/travel-history-app/static/css/main.272e989d.css.map",
+    "main.1ed14e6b.js.map": "/travel-history-app/static/js/main.1ed14e6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.272e989d.css",
+    "static/js/main.1ed14e6b.js"
+  ]
+}
